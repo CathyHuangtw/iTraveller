@@ -1,6 +1,4 @@
-# Cathy's Website
-
-## Front-End Usage
+# iTraveller
 
 ### Install
 
